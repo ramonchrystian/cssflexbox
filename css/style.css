@@ -56,9 +56,10 @@ img {
     background: #2c70ff;
 }
 
-.menu-logo  {
-    max-width: 180px;
-    max-height: 150px;
+.menu-logo p {
+    font-size: 3em;
+    color: white;
+    font-weight: bold;
 }
 .menu {
     max-width: 960px;
@@ -88,6 +89,7 @@ img {
 
 .menu-nav a {
     font-size: 1.25em;
+    font-weight: bold;
     display: block;
     padding: 10px; 
 }
